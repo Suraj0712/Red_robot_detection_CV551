@@ -18,4 +18,10 @@
 2. Extract features using sift for the entire image
 3. Compare features using knn to classify object
 
-
+# Results
+<img src="./results/headbodyarmslegs.png" width="779" height="414" />
+## Step by step output
+<img src="./results/Backgroundremovalpng" width="779" height="414" />
+<img src="./results/Sift_detectionandremoval.png" width="779" height="414" />
+<img src="./results/edgedetectiojn.png" width="779" height="414" />
+<img src="./results/finaloutput.png" width="779" height="414" />
